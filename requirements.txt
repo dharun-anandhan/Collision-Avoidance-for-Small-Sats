@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 requests
 sgp4
 numpy
 matplotlib
 psutil
+=======
+requests
+sgp4
+numpy
+matplotlib
+psutil
+>>>>>>> 3b78c2e4b0cf568912bd8671957ca2430153fb87
