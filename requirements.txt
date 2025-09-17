@@ -1,0 +1,5 @@
+requests
+sgp4
+numpy
+matplotlib
+psutil

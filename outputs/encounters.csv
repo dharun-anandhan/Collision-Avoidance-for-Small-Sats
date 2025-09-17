@@ -1,0 +1,17 @@
+Satellite 1,Satellite 2,Closest Approach (km),Action
+ISS (ZARYA),ISS (NAUKA),0.018426688630875036,Emergency delta-v maneuver
+ISS (ZARYA),SOYUZ-MS 27,0.018426688630875036,Emergency delta-v maneuver
+ISS (ZARYA),PROGRESS-MS 31,0.018426688630875036,Emergency delta-v maneuver
+CSS (TIANHE),CSS (WENTIAN),0.0,Emergency delta-v maneuver
+CSS (TIANHE),CSS (MENGTIAN),0.0,Emergency delta-v maneuver
+CSS (TIANHE),SHENZHOU-20 (SZ-20),0.0,Emergency delta-v maneuver
+CSS (TIANHE),TIANZHOU-9,0.0,Emergency delta-v maneuver
+ISS (NAUKA),SOYUZ-MS 27,0.0,Emergency delta-v maneuver
+ISS (NAUKA),PROGRESS-MS 31,0.0,Emergency delta-v maneuver
+CSS (WENTIAN),CSS (MENGTIAN),0.0,Emergency delta-v maneuver
+CSS (WENTIAN),SHENZHOU-20 (SZ-20),0.0,Emergency delta-v maneuver
+CSS (WENTIAN),TIANZHOU-9,0.0,Emergency delta-v maneuver
+CSS (MENGTIAN),SHENZHOU-20 (SZ-20),0.0,Emergency delta-v maneuver
+CSS (MENGTIAN),TIANZHOU-9,0.0,Emergency delta-v maneuver
+SOYUZ-MS 27,PROGRESS-MS 31,0.0,Emergency delta-v maneuver
+SHENZHOU-20 (SZ-20),TIANZHOU-9,0.0,Emergency delta-v maneuver
